@@ -1,10 +1,10 @@
-# 💻 Carlos Lopes — QA Sênior (CTFL®)
+# 💻 Carlos Lopes — QA Sênior | Automação & Estratégia de Testes (CTFL®)
 
 Profissional de Qualidade de Software com foco em **estratégia de testes, automação ponta a ponta e garantia de valor**.  
 Especialista em estruturar processos, pipelines e abordagens que garantem **qualidade, rastreabilidade e entrega contínua**.
 
-Especialista em garantia da qualidade de software, com foco em automação ponta a ponta, testes funcionais e não funcionais, rastreabilidade e integração contínua.  
-Experiência sólida na estruturação de pipelines de qualidade, implementação de métricas e melhoria contínua de processos ágeis.
+Especialista em garantia da qualidade de software, com foco em **automação ponta a ponta, testes funcionais e não funcionais, rastreabilidade e integração contínua**.  
+Experiência sólida na **estruturação de pipelines de testes, implementação de métricas e melhoria contínua de processos ágeis**, garantindo entrega de valor e qualidade consistente.
 
 ---
 
@@ -31,20 +31,29 @@ Experiência sólida na estruturação de pipelines de qualidade, implementaçã
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### Automação de Testes
 
 **Web:**  
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![CodeceptJS](https://img.shields.io/badge/CodeceptJS-007ACC?style=for-the-badge&logo=codeceptjs&logoColor=white)
+![WebDriverManager](https://img.shields.io/badge/WebDriverManager-00AEEF?style=for-the-badge&logo=webdriver&logoColor=white)
 
 **Mobile:**  
 ![Appium](https://img.shields.io/badge/Appium-77B900?style=for-the-badge&logo=appium&logoColor=white)
+![CodeceptJS](https://img.shields.io/badge/CodeceptJS-007ACC?style=for-the-badge&logo=codeceptjs&logoColor=white)
 
 **API:**  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Swagger Editor](https://img.shields.io/badge/Swagger%20Editor-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+![Swagger UI](https://img.shields.io/badge/Swagger%20UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-000000?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![Codegen](https://img.shields.io/badge/Swagger%20Codegen-4B4B4B?style=for-the-badge&logo=swagger&logoColor=white)
+![Newman](https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![RestAssured](https://img.shields.io/badge/RestAssured-009688?style=for-the-badge&logo=java&logoColor=white)
 ![SoapUI](https://img.shields.io/badge/SoapUI-009639?style=for-the-badge&logo=soapui&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-4BAF50?style=for-the-badge&logo=cucumber&logoColor=white)
@@ -52,13 +61,14 @@ Experiência sólida na estruturação de pipelines de qualidade, implementaçã
 
 ### Performance & Carga
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![Gatling](https://img.shields.io/badge/Gatling-6BA84E?style=for-the-badge&logo=gatling&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
-### Observabilidade / Logs
+### Observabilidade / Logs / Qualidade de Código
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![WireMock](https://img.shields.io/badge/WireMock-FF6C37?style=for-the-badge&logo=wiremock&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 ### Bancos de Dados
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -80,3 +90,5 @@ Experiência sólida na estruturação de pipelines de qualidade, implementaçã
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/andré-qa-automation)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/LOPES81)
+
+---
