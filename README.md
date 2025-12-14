@@ -1,4 +1,4 @@
-# 💻 Carlos Lopes — QA Sênior | Automação & Estratégia de Testes (CTFL®)
+# 💻 Carlos Lopes — QA Enginnee | Automação & Estratégia de Testes (CTFL®)
 
 Profissional de Qualidade de Software com foco em **estratégia de testes, automação ponta a ponta e garantia de valor**.  
 Especialista em estruturar processos, pipelines e abordagens que garantem **qualidade, rastreabilidade e entrega contínua**.
